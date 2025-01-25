@@ -7,7 +7,7 @@ This repository contains the source code for a promotional webpage for KSR Colle
 - Comprehensive Information: Details about the college, department, facilities, and contact information.
 - Interactive Elements: Hyperlinks and images to enhance the user experience.
 
-📂 Project Structure
+📂 Project Structure - https://github.com/Anithaaaaaaaa/CollegeWebsite/tree/master
 
 🚀 Features to Add
 Responsive design for mobile devices.
