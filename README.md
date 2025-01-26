@@ -43,6 +43,7 @@ Clone the repository:
 
 File Structure
 
+```
 college-website/
 ├── index.html      # Main landing page
 ├── about.html      # About the college
@@ -51,7 +52,7 @@ college-website/
 ├── contact.html    # Contact page with form
 ├── style.css       # CSS for styling
 └── README.md       # Documentation file
-
+```
 
 ~How to Use
 
