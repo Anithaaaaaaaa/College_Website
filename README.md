@@ -205,7 +205,7 @@ git push -u origin main
 🔗 Live Preview
 
 🌍 GitHub Repository: https://github.com/Anithaaaaaaaa/College_Website.git
-🌐 Live Demo: View on Chrome
+🌐 Live Demo: https://anithachandran.neocities.org/College_Website/event
 
 
 📩 Contact
